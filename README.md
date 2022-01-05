@@ -10,5 +10,3 @@ To retrieve the code of each letter, I traverse down the tree to the leaves. Tra
 Finally, I loop through each character and use the hashmap to record the bit sequence of the text.
 
 To decompress a file, we read each bit, traverse down the tree, and retrieve each letter.
-
-### Usage
